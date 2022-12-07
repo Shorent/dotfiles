@@ -1,0 +1,93 @@
+2022-12-07 16:21:53,795 [MainThread] INFO: setting language to: en_US.UTF-8
+2022-12-07 16:21:53,807 [MainThread] INFO: 48 custom mappings(s)
+2022-12-07 16:21:53,966 [Dummy-1] INFO: set_stroke_filename(/home/matthew/.config/plover/strokes.log)
+2022-12-07 16:21:53,966 [Dummy-1] INFO: loading system: English Stenotype
+2022-12-07 16:21:54,105 [Dummy-1] INFO: setting machine: Keyboard
+2022-12-07 16:21:54,117 [Dummy-1] INFO: XInput devices: 6, 7, 17, 18, 8, 9, 10, 12
+2022-12-07 16:21:54,122 [Dummy-1] INFO: recreating /home/matthew/.config/plover/user.json from asset:plover:assets/user.json
+2022-12-07 16:21:54,123 [Dummy-1] INFO: recreating /home/matthew/.config/plover/commands.json from asset:plover:assets/commands.json
+2022-12-07 16:21:54,124 [Dummy-1] INFO: recreating /home/matthew/.config/plover/main.json from asset:plover:assets/main.json
+2022-12-07 16:21:54,138 [Dummy-1] INFO: loading dictionary: /home/matthew/.config/plover/user.json
+2022-12-07 16:21:54,138 [Dummy-1] INFO: loading dictionary: /home/matthew/.config/plover/commands.json
+2022-12-07 16:21:54,138 [Dummy-1] INFO: loading dictionary: /home/matthew/.config/plover/main.json
+2022-12-07 16:21:54,504 [Dummy-1] INFO: loaded 3 dictionaries in 0.366s
+2022-12-07 16:32:11,725 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+2022-12-07 16:32:17,781 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -T is not bound
+2022-12-07 16:32:54,634 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -R is not bound
+- action -T is not bound
+2022-12-07 16:33:19,771 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -R is not bound
+- action -G is not bound
+- action -T is not bound
+2022-12-07 16:35:04,204 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -R is not bound
+- action -G is not bound
+- action -T is not bound
+2022-12-07 16:35:48,474 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -R is not bound
+- action -G is not bound
+- action -T is not bound
+2022-12-07 16:39:07,125 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -R is not bound
+- action -G is not bound
+- action -S is not bound
+2022-12-07 16:39:20,696 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -R is not bound
+- action -G is not bound
+- action -S is not bound
+2022-12-07 16:39:35,258 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action R- is not bound
+- action -R is not bound
+- action -G is not bound
+- action -S is not bound
+2022-12-07 16:39:54,919 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action -R is not bound
+- action -G is not bound
+- action -S is not bound
+2022-12-07 16:40:23,578 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action -R is not bound
+- action -G is not bound
+- action -S is not bound
+2022-12-07 16:40:45,706 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action -G is not bound
+- action -S is not bound
+2022-12-07 16:41:26,484 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action -G is not bound
+- action -S is not bound
+2022-12-07 16:41:40,206 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action -S is not bound
+2022-12-07 16:43:12,555 [MainThread] WARNING: Keymap is invalid, behavior undefined:
+
+- action -B is not bound
+2022-12-07 16:43:12,637 [Dummy-1] WARNING: Keymap is invalid, behavior undefined:
+
+- action -B is not bound
+2022-12-07 16:43:12,639 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2022-12-07 16:43:58,143 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2022-12-07 16:44:02,357 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2022-12-07 16:50:45,637 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
+2022-12-07 16:50:50,255 [Dummy-1] INFO: loaded 3 dictionaries in 0.000s
